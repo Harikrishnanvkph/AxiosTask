@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.api-card{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 100%;
+}
+
+
+nav{
+    background-color: lightseagreen;
+    padding: 15px;
+    display: flex;
+    font-weight: bolder;
+    font-size: 20px;
+    justify-content: center;
+}
+
+nav li{
+    list-style: none;
+}
+
+nav li a{
+    color: white;
+}
+
+ul{
+    margin: 0;
+}
+.const{
+    padding: 10px;
+}
+
+footer{
+    padding: 5px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    margin: 0;
+}
+
+.button-update{
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    padding: 3px 4px;
+    border-color: transparent;
+    border-radius: 2px;
+}
+.update{
+    display: flex;
+    justify-content: center;
+}
+.host{
+    border: 1px solid black;
+    border-radius : 5px;
+}
+
+.opt-buttons{
+    justify-content: space-evenly;
+}
+
+.host{
+    min-height: 100%;
+}
+.object-glimpse *{
+    margin: 0;
+    padding: 0;
+}
+
+.object-glimpse-h4{
+    margin: 5px 0px;
+    font-style: italic;
+}
+.object-glimpse-h6{
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+
+.edit *{
+    margin: 0;
+    padding: 0;
+}
+
+.edit{
+    padding: 10px;
+}
+
+
+input{
+    width: 75%;
+}
+
+.icon{
+    font-size: 50px;
+    color: white;
+}
+
+.addSymbol{
+    font-size: 15px;
+    color : white;
+    margin-right: 10px;
+}
